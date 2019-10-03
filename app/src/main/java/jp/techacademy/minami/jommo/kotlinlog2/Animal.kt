@@ -1,4 +1,4 @@
-package jp.techacademy.minami.jommo.kotlinlog
+package jp.techacademy.minami.jommo.kotlinlog2
 
 abstract class Animal {
     // プロパティ
